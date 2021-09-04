@@ -1,4 +1,4 @@
 # hitachi_deep_learning_hackathon
 
 ### TODO
-- [] 前処理
+- [ ] 前処理
